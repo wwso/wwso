@@ -1,13 +1,13 @@
 ---
 
 
- ### VISITS <3<br>
+ ### Visits <3<br>
   <img src="https://profile-counter.glitch.me/wwso/count.svg" />
 
 
 ---
 
-### Tools and Languages <3
+### Languages and Tools <3
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://github.com/wwso)
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://github.com/wwso)
@@ -18,3 +18,9 @@
 <br />
 
 ---
+
+### My Discord <3
+
+<a href="https://discord.com/users/681454604075925523" target="_blank">
+	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/681454604075925523bg=1f1f1f&borderRadius=5px">
+</a>
